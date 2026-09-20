@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Charleyli925/Stemmio-Releases/security/advisories/new
+    about: Report security issues privately; do not open a public Issue.
+  - name: Support guide
+    url: https://github.com/Charleyli925/Stemmio-Releases/blob/main/SUPPORT.md
+    about: Read what information to include and what not to share.

@@ -17,7 +17,8 @@ release ZIP from this repository.
 
 Stemmio source code is proprietary and is maintained in a private repository.
 This repository intentionally contains no application source, source archives,
-CI logs or build artifacts beyond the released installer and updater files.
+source maps, debug-symbol or crash artifacts, CI logs or build artifacts beyond
+the released installer and updater files.
 Earlier versions that were published under Apache License 2.0 remain governed
 by the license supplied with those historical releases.
 
